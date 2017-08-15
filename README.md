@@ -1,4 +1,4 @@
-![image](http://imgur.com/IaTcyl5)
+![image](http://i.imgur.com/IaTcyl5.gifv)
 
 # Motion Game
 A musical android game where the user uses touch and motion controls in order to win. The game consists of little red circles coming towards the center of the screen. The player needs to either tap their screen (for circles coming from the top) or swipe their screen in the correct direction (circles coming from the sides and bottom). The player may also shake their device to remove all red circles on the screen if things get out of hand, but they may only do that 3 times.
